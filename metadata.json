@@ -1,0 +1,7 @@
+{
+  "name": "BellaStok-v2.0 -  Validador de Pedidos -ResetLogin-redapePDF",
+  "description": "Sistema de gestão de pedidos tipo AppSheet com validação de itens via código de barras e conferência visual.\nBellaStok-v2.0",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
